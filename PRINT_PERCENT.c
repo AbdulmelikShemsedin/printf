@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * print_percent - This Function prints a percent sign
  * @types: Lista of arguments
