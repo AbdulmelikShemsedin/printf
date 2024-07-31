@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * print_char - This function Prints a character
  * @types: List a of arguments
